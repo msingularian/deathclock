@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/deathclock/static/css/main.aca552d7.css",
-    "main.js": "/deathclock/static/js/main.4a5edab5.js",
+    "main.css": "/deathclock/static/css/main.871c7c70.css",
+    "main.js": "/deathclock/static/js/main.33108464.js",
     "static/js/453.405c0f14.chunk.js": "/deathclock/static/js/453.405c0f14.chunk.js",
     "index.html": "/deathclock/index.html",
-    "main.aca552d7.css.map": "/deathclock/static/css/main.aca552d7.css.map",
-    "main.4a5edab5.js.map": "/deathclock/static/js/main.4a5edab5.js.map",
+    "main.871c7c70.css.map": "/deathclock/static/css/main.871c7c70.css.map",
+    "main.33108464.js.map": "/deathclock/static/js/main.33108464.js.map",
     "453.405c0f14.chunk.js.map": "/deathclock/static/js/453.405c0f14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aca552d7.css",
-    "static/js/main.4a5edab5.js"
+    "static/css/main.871c7c70.css",
+    "static/js/main.33108464.js"
   ]
 }
